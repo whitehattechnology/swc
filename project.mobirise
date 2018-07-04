@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADP Social Work Caucus",
-    "currentPage": "Membership.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -564,7 +564,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -724,7 +724,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -874,7 +874,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -1020,7 +1020,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
           "_tags": [
             "Theme"
           ],
