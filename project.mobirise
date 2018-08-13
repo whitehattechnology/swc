@@ -16,15 +16,16 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 123,
-    "versionPublish": "4.7.2",
+    "uniqCompNum": 125,
+    "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "siteUrl": "undefined",
-    "gdpr": ""
+    "gdpr": "",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -63,7 +64,7 @@
           },
           "title": "Social Work Caucus",
           "text": "“Insert Quote”\n<br>\n<br>-who said it",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Social Work Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://secure.actblue.com/contribute/page/adpwebsite\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://secure.actblue.com/contribute/page/adpwebsite\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -113,7 +114,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Message from the ADP Chair",
-          "text": "<p>The Arizona Democratic Party Caucuses are an important link between communities and our party leadership.  Our caucuses are truly engaged in the issues that are most pressing in today's enviroment.  As a members of the caucuses you will find a welcoming community.  We thank you for being a part of something greater and look forward to working with each Caucus and its members to strenghten our party.\n</p><p></p><p></p><p></p><p>\n\n\nFelecia Rotellini - Arizona Democratic Party Chair</p>",
+          "text": "<p>The Arizona Democratic Party Caucuses are an important link between communities and our party leadership.  Our caucuses are truly engaged in the issues that are most pressing in today's environment.  As members of the caucuses you will find welcoming communities.  We thank you for being a part of something greater and look forward to working with each Caucus and its members to strenghten our party.\n</p><p></p><p></p><p></p><p>\n\n\nFelecia Rotellini - Arizona Democratic Party Chair</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -194,7 +195,7 @@
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/swc-imelda-sandra-630x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/swc-imelda-sandra-630x960-630x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/swc-imelda-sandra-630x960-503x503.jpg",
                 "alt": "",
                 "caption": "Social Work Caucus Founders",
                 "active": false,
@@ -202,22 +203,23 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/swc-january-contreras-speaker-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/swc-january-contreras-speaker-2000x1500-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/swc-january-contreras-speaker-2000x1500-800x800.jpg",
                 "alt": "",
                 "caption": "Candidates sharing their platform",
                 "active": false,
                 "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-1-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-1-960x720-576x576.jpg",
                 "alt": "",
                 "caption": "Democracy First!",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/10924718-612373995528818-4084129306521987811-n-826x522.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10924718-612373995528818-4084129306521987811-n-826x522-800x506.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10924718-612373995528818-4084129306521987811-n-1-826x522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10924718-612373995528818-4084129306521987811-n-1-826x522-417x417.jpg",
                 "alt": "",
                 "caption": "Shared Values",
                 "active": true,
@@ -266,7 +268,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "Our Social Work Community",
+          "header": "Our Social Work Community<br><br>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -408,17 +410,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -453,7 +455,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-12"
         },
@@ -544,7 +546,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -596,7 +598,7 @@
       "components": [
         {
           "_params": {
-            "showMeta": true
+            "showMeta": false
           },
           "title": "Privacy Policy",
           "meta": "",
@@ -613,7 +615,7 @@
           }
         },
         {
-          "text": "<p><b><br></b></p><p><b>Our Commitment To Privacy</b></p><p><br></p><p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p><p><br></p><p>\n</p><p><b>The Information We Collect</b></p><p><br></p><p> \n</p><p>\n</p><p>This notice applies to all information collected or submitted on the Arizona Democratic Party website. On some pages, you can order event tickets, make contributions, and register to receive materials. The types of personal information collected on these pages are as follows:</p><p><br></p><p>\n</p><p>\n</p><p>Name\n</p><p>Address\n</p><p>Email address\n</p><p>Phone numbers\n</p><p>Credit/Debit Card Information\n</p><p>Occupation\n</p><p>Employer</p><p><br></p><p>\n</p><p>\n</p><p><b>The Way We Use Information</b></p><p><br></p><p>\n</p><p>\n</p><p>&nbsp; &nbsp; We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with parties outside the Democratic party.</p><p><br></p><p>\n</p><p>&nbsp; &nbsp; You can register with our website if you would like to receive updates, make a contribution, volunteer, or participate in an action. The information you submit on our website could be used to contact you through email, social media applications, postal mail, and/or via phone call or text message.</p><p><br></p><p>\n</p><p>We use non-identifying and aggregate information to better design our website and to share with third-party groups associated with the Arizona Democratic Party. For example, we may tell a candidate that 10,000 individuals visited a page concerning that candidate on our website, or that 5,000 men and 10,000 women filled out our registration form. At times, we may also exchange email addresses or provide emails to partners and/or candidates if we feel our members would be interested in information from those parties.</p><p><br></p><p>\n</p><p>&nbsp; &nbsp; Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing the user with an opportunity to opt-out or otherwise prohibit such unrelated uses.\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\n</p><p><b>Our Commitment To Data Security</b></p><p><br></p><p>\n</p><p>\n</p><p>&nbsp; &nbsp; To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p><p><br></p><p>\n</p><p><b>How To Contact Us</b></p><p><br></p><p>\n</p><p>\n</p><p>Should you have other questions or concerns about these privacy policies, please call us at 602-298-4200 or send us an email at info@azdem.org</p>",
+          "text": "<p><b><br></b></p><p><b>Our Commitment To Privacy</b></p><p><br></p><p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p><p><br></p><p>\n</p><p><b>The Information We Collect</b></p><p><br></p><p> \n</p><p>\n</p><p>This notice applies to all information collected or submitted on the Arizona Democratic Party website. On some pages, you can order event tickets, make contributions, and register to receive materials. The types of personal information collected on these pages are as follows:</p><p><br></p><p>\n</p><p>\n</p><p>Name\n</p><p>Address\n</p><p>Email address\n</p><p>Phone numbers\n</p><p>Credit/Debit Card Information\n</p><p>Occupation\n</p><p>Employer</p><p><br></p><p>\n</p><p>\n</p><p><b>The Way We Use Information</b></p><p><br></p><p>\n</p><p>\n</p><p>&nbsp; &nbsp; We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with parties outside the Democratic party.</p><p><br></p><p>\n</p><p>&nbsp; &nbsp; You can register with our website if you would like to receive updates, make a contribution, volunteer, or participate in an action. The information you submit on our website could be used to contact you through email, social media applications, postal mail, and/or via phone call or text message.</p><p><br></p><p>\n</p><p>We use non-identifying and aggregate information to better design our website and to share with third-party groups associated with the Arizona Democratic Party. For example, we may tell a candidate that 10,000 individuals visited a page concerning that candidate on our website, or that 5,000 men and 10,000 women filled out our registration form. At times, we may also exchange email addresses or provide emails to partners and/or candidates if we feel our members would be interested in information from those parties.</p><p><br></p><p>\n</p><p>&nbsp; &nbsp; Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing the user with an opportunity to opt-out or otherwise prohibit such unrelated uses.\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\n</p><p><b>Our Commitment To Data Security</b></p><p><br></p><p>\n</p><p>\n</p><p>&nbsp; &nbsp; To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p><p><br></p><p>\n</p><p><b>How To Contact Us</b></p><p><br></p><p>\n</p><p>\n</p><p>Should you have other questions or concerns about these privacy policies, please call us at 602-298-4200 or send us an email at info@azdem.org</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -623,17 +625,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -668,7 +670,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-3a"
         },
@@ -704,7 +706,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -773,17 +775,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -818,7 +820,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-34"
         },
@@ -854,7 +856,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -919,17 +921,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -964,7 +966,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-2w"
         },
@@ -1000,7 +1002,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1047,17 +1049,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1092,7 +1094,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-29"
         },
@@ -1128,7 +1130,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1196,7 +1198,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1206,17 +1208,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1251,7 +1253,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         }
@@ -1532,7 +1534,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1542,17 +1544,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1587,7 +1589,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         }
@@ -1701,7 +1703,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1711,17 +1713,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1756,7 +1758,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         }
@@ -1848,7 +1850,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1858,17 +1860,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1903,7 +1905,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-12"
         }
@@ -2156,7 +2158,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -2166,17 +2168,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2211,7 +2213,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         }
@@ -2290,7 +2292,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: Social Work Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
           "text2": "<strong>CONTACT</strong><br>\nEmail: info@adpsocialworkcaucus.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to <a href=\"page10.html\">Accessibility</a>&nbsp;</li><li>Subscribed to <a href=\"https://www.google.com/analytics/analytics/#?modal_active=none\" target=\"_blank\">Google Analytics</a>&nbsp;</li><li><br></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -2300,17 +2302,17 @@
         {
           "_inherit": "dropdown-menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://survey.azblueleader.com/index.php/736744?lang=en\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\" target=\"_blank\">Community Building - DemsForYou </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2345,7 +2347,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         }
