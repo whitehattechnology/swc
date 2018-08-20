@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADP Social Work Caucus",
-    "currentPage": "index.html",
+    "currentPage": "Membership.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -16,7 +16,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 156,
+    "uniqCompNum": 159,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -992,18 +992,18 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#dfbb48",
             "slides": [
               {
                 "image": "images/slide1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Who We Are",
                 "contentAlign": "right",
                 "text": "A caucus is a group of Democrats whose \n<br>members join together to organize the \n<br>communities they represent within the \n<br>Arizona Democratic Party",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://docs.google.com/forms/d/1ktFrLinBmoArhadW7DJlwCaaezA2sOtaGq1lmaXPq4E/prefill\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://goo.gl/forms/60mm5OEkiZhixsGc2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
               },
               {
                 "image": "images/slide2.jpg",
@@ -1014,18 +1014,18 @@
                 "title": "What We Do",
                 "contentAlign": "left",
                 "text": "Our caucus organizes events, sets goals to measure progress, and we strive to promote the best values our party has to offer",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://docs.google.com/forms/d/1ktFrLinBmoArhadW7DJlwCaaezA2sOtaGq1lmaXPq4E/prefill\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://goo.gl/forms/60mm5OEkiZhixsGc2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
               },
               {
                 "image": "images/slide3.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Our Impact",
                 "contentAlign": "center",
                 "text": "We strengthen our community and the Democratic Party by\n<br>supporting the issus and initiatives that are most impactful to our <br>mission of speading our values.",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://docs.google.com/forms/d/1ktFrLinBmoArhadW7DJlwCaaezA2sOtaGq1lmaXPq4E/prefill\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://goo.gl/forms/60mm5OEkiZhixsGc2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the Caucus</a>"
               }
             ]
           },
@@ -1034,7 +1034,8 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-1e"
+          "_anchor": "slider-1e",
+          "_customCSS": ""
         },
         {
           "_params": {
