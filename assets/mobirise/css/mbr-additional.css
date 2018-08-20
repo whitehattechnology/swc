@@ -12,6 +12,9 @@
 #content5-8 .mbr-article {
   color: #fff;
 }
+#content5-8 .mbr-article P {
+  color: #3c3c3c;
+}
 #msg-box5-n .mbr-header__text {
   color: #ffffff;
 }
@@ -59,9 +62,17 @@
   text-align: center ;
   padding: 10px ;
 }
-#header3-3d H3 {
+#content5-3j .mbr-header .mbr-header__text {
   text-align: center;
-  font-size: 36px;
+  color: #fff;
+  font-size: 60px;
+}
+#content5-3j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-3j .mbr-article {
+  color: #fff;
 }
 #dropdown-menu-2btn-3a .hide-buttons [data-button] {
   display: none !important;
@@ -83,35 +94,28 @@
 #dropdown-menu-2btn-3a .navbar-toggler {
   color: #ffffff;
 }
-#header3-39 H3 {
+#custom-html-3u .clearbox {
+  font-size: 18px ;
+  margin-left: auto ;
+  margin-right: auto ;
+  border: 1px solid black ;
+  text-align: center ;
+  padding: 10px ;
+}
+#content5-3l .mbr-header .mbr-header__text {
   text-align: center;
+  color: #fff;
+  font-size: 36px;
 }
-#content1-38 P {
-  text-align: left;
-}
-#dropdown-menu-2btn-34 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-34 .nav .link,
-#dropdown-menu-2btn-34 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#dropdown-menu-2btn-34 .navbar,
-#dropdown-menu-2btn-34 .dropdown-menu {
-  background: #333333;
-}
-#dropdown-menu-2btn-34 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-34 .dropdown-menu a:hover,
-#dropdown-menu-2btn-34 .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-2btn-34 .navbar-toggler {
-  color: #ffffff;
-}
-#header3-33 H3 {
+#content5-3l .mbr-header .mbr-header__subtext {
   text-align: center;
-  font-size: 30px;
+  color: #fff;
+}
+#content5-3l .mbr-article {
+  color: #fff;
+}
+#content5-3l .mbr-header .mbr-header__text DIV {
+  text-align: center;
 }
 #dropdown-menu-2btn-2w .hide-buttons [data-button] {
   display: none !important;
@@ -133,25 +137,21 @@
 #dropdown-menu-2btn-2w .navbar-toggler {
   color: #ffffff;
 }
-#dropdown-menu-2btn-29 .hide-buttons [data-button] {
-  display: none !important;
+#custom-html-3v .clearbox {
+  font-size: 18px ;
+  margin-left: auto ;
+  margin-right: auto ;
+  border: 1px solid black ;
+  text-align: center ;
+  padding: 10px ;
 }
-#dropdown-menu-2btn-29 .nav .link,
-#dropdown-menu-2btn-29 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#dropdown-menu-2btn-29 .navbar,
-#dropdown-menu-2btn-29 .dropdown-menu {
-  background: #333333;
-}
-#dropdown-menu-2btn-29 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-29 .dropdown-menu a:hover,
-#dropdown-menu-2btn-29 .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-2btn-29 .navbar-toggler {
-  color: #ffffff;
+#custom-html-3x .clearbox {
+  font-size: 18px ;
+  margin-left: auto ;
+  margin-right: auto ;
+  border: 1px solid black ;
+  text-align: center ;
+  padding: 10px ;
 }
 #dropdown-menu-2btn-1v .hide-buttons [data-button] {
   display: none !important;
@@ -173,52 +173,24 @@
 #dropdown-menu-2btn-1v .navbar-toggler {
   color: #ffffff;
 }
-#dropdown-menu-2btn-1v .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-1v .nav .link,
-#dropdown-menu-2btn-1v .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#dropdown-menu-2btn-1v .navbar,
-#dropdown-menu-2btn-1v .dropdown-menu {
-  background: #333333;
-}
-#dropdown-menu-2btn-1v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-1v .dropdown-menu a:hover,
-#dropdown-menu-2btn-1v .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-2btn-1v .navbar-toggler {
-  color: #ffffff;
-}
-#header3-1g H3 {
+#content5-3n .mbr-header .mbr-header__text {
   text-align: center;
+  color: #fff;
+  font-size: 36px;
 }
-#dropdown-menu-2btn-1v .hide-buttons [data-button] {
-  display: none !important;
+#content5-3n .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
 }
-#dropdown-menu-2btn-1v .nav .link,
-#dropdown-menu-2btn-1v .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
+#content5-3n .mbr-article {
+  color: #fff;
 }
-#dropdown-menu-2btn-1v .navbar,
-#dropdown-menu-2btn-1v .dropdown-menu {
-  background: #333333;
-}
-#dropdown-menu-2btn-1v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-1v .dropdown-menu a:hover,
-#dropdown-menu-2btn-1v .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-2btn-1v .navbar-toggler {
-  color: #ffffff;
+#content5-3n .mbr-header .mbr-header__text DIV {
+  text-align: center;
 }
 #content5-14 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #3c3c3c;
 }
 #content5-14 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -226,6 +198,9 @@
 }
 #content5-14 .mbr-article {
   color: #fff;
+}
+#content5-14 .mbr-article P {
+  color: #3c3c3c;
 }
 #dropdown-menu-2btn-12 .hide-buttons [data-button] {
   display: none !important;
@@ -247,15 +222,44 @@
 #dropdown-menu-2btn-12 .navbar-toggler {
   color: #ffffff;
 }
+#custom-html-3y .clearbox {
+  font-size: 18px ;
+  margin-left: auto ;
+  margin-right: auto ;
+  border: 1px solid black ;
+  text-align: center ;
+  padding: 10px ;
+}
+#content5-3o .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 36px;
+}
+#content5-3o .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-3o .mbr-article {
+  color: #fff;
+}
+#content5-3o .mbr-header .mbr-header__text DIV {
+  text-align: center;
+}
+#header3-3q H3 {
+  text-align: center;
+}
+#header3-y H3 {
+  text-align: center;
+}
 #header3-11 H3 {
   text-align: center;
   font-size: 48px;
 }
-#image2-v P {
-  font-size: 14px;
-}
-#header3-y H3 {
+#header3-3s H3 {
   text-align: center;
+}
+#header3-3s P {
+  text-align: left;
 }
 #header3-z H3 {
   text-align: center;
@@ -267,12 +271,6 @@
   text-align: center;
 }
 #header3-10 P {
-  text-align: left;
-}
-#header3-1t H3 {
-  text-align: center;
-}
-#header3-1t P {
   text-align: left;
 }
 #dropdown-menu-2btn-1v .hide-buttons [data-button] {
@@ -295,15 +293,39 @@
 #dropdown-menu-2btn-1v .navbar-toggler {
   color: #ffffff;
 }
-#header3-20 H3 {
-  font-size: 36px;
-  text-align: center;
+#custom-html-3t .clearbox {
+  font-size: 18px ;
+  margin-left: auto ;
+  margin-right: auto ;
+  border: 1px solid black ;
+  text-align: center ;
+  padding: 10px ;
 }
-#header3-20 P {
-  text-align: left;
+#content5-3m .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 36px;
+}
+#content5-3m .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-3m .mbr-article {
+  color: #fff;
+}
+#content5-3m .mbr-header .mbr-header__text DIV {
+  text-align: center;
 }
 #content1-22 P {
   text-align: left;
+}
+#custom-html-3w .clearbox {
+  font-size: 18px ;
+  margin-left: auto ;
+  margin-right: auto ;
+  border: 1px solid black ;
+  text-align: center ;
+  padding: 10px ;
 }
 #dropdown-menu-2btn-1v .hide-buttons [data-button] {
   display: none !important;
