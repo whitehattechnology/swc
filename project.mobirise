@@ -11,12 +11,13 @@
         "#2fa8d9",
         "#3c3c3c",
         "#dfbb48",
-        "#777777"
+        "#777777",
+        "#f8f3f2"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 159,
+    "uniqCompNum": 160,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -443,7 +444,7 @@
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-12",
-          "_customHTML": "<section data-rv-view=\"31\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\">\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"147\">Home</a></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"148\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"149\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"150\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"151\">ADP Social Work Caucus ByLaws<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" code-editable-id=\"152\">Blog</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"153\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"154\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"155\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"156\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"157\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"158\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"159\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"160\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"161\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\" code-editable-id=\"162\">Contribute</a>\n\n                <div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</li></ul>\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section data-rv-view=\"31\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\">\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"28\">Home</a></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"29\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"30\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"31\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"32\">ADP Social Work Caucus ByLaws<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" code-editable-id=\"33\">Blog</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"34\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"35\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"36\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"37\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"38\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"39\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"40\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"41\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"42\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\" code-editable-id=\"43\">Contribute</a>\n\n                <div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</li></ul>\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
@@ -574,13 +575,18 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_anchor": "footer1-2l",
-          "_customCSS": ""
+          "_customCSS": "",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_customTemplate": true,
@@ -679,7 +685,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Blog</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Events.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -714,7 +720,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-3a"
         },
@@ -782,12 +788,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3c"
+          "_anchor": "footer1-3c",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -870,7 +881,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Blog</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Events.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -905,7 +916,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-2w"
         },
@@ -973,12 +984,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2y"
+          "_anchor": "footer1-2y",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -1106,7 +1122,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Blog</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Events.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1141,7 +1157,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         },
@@ -1158,12 +1174,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2l"
+          "_anchor": "footer1-2l",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -1327,7 +1348,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Blog</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Events.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1362,7 +1383,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-12"
         },
@@ -1391,12 +1412,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2l"
+          "_anchor": "footer1-2l",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -1730,7 +1756,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Blog</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Events.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1765,7 +1791,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         },
@@ -1794,12 +1820,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2l"
+          "_anchor": "footer1-2l",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -1938,7 +1969,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Blog</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Events.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1973,7 +2004,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
         },
@@ -1990,12 +2021,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2l"
+          "_anchor": "footer1-2l",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -2124,7 +2160,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Blog</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Events.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2159,7 +2195,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-42"
         },
@@ -2188,12 +2224,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-44"
+          "_anchor": "footer1-44",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -2360,7 +2401,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP Social Work Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\">ADP Social Work Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Blog</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Events.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/webapp/evoter/selectLanguage\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/donate/activate-membership?refcode=web_home&amp;recurring=1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2395,7 +2436,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats Social Work Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-49"
         },
@@ -2424,12 +2465,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p>",
+          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-4b"
+          "_anchor": "footer1-4b",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
