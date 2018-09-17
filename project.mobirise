@@ -528,12 +528,14 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-2l",
-          "_customCSS": "",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "_customCSS": "P {\n  text-align: center;\n}\n",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"173\" style=\"background-color: rgb(68, 68, 68);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"69\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"TermsandConditions.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"PrivacyPolicy.html\">Privacy Policy</a></p><p>Help improve this site's Google Translate. <a href=\"https://translate.google.com/community\">Click here to learn how.</a></p><p></p><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
