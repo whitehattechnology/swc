@@ -37,6 +37,9 @@
 #footer1-2l P {
   text-align: center;
 }
+#footer1-2l .google_translate_element {
+  position: absolute;
+}
 #custom-html-2p .clearbox {
   font-size: 18px ;
   margin-left: auto ;
