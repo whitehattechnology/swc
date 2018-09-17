@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADP Social Work Caucus-clone",
-    "currentPage": "PrivacyPolicy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -691,7 +691,7 @@
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-3a",
-          "_customHTML": "<section data-rv-view=\"69\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"223\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"224\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"225\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"226\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"227\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"228\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"229\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"230\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"231\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"232\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"233\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"234\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"235\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"236\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"237\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"238\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
+          "_customHTML": "<section data-rv-view=\"69\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"255\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"256\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"257\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"258\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"259\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"260\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"261\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"262\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"263\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"264\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"265\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"266\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"267\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"268\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"269\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"270\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
@@ -861,25 +861,6 @@
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
           "logo": {
             "image": {
               "active": true,
@@ -894,7 +875,15 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2w"
+          "_anchor": "dropdown-menu-2btn-2w",
+          "_customHTML": "<section data-rv-view=\"80\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"287\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"288\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"289\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"290\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"291\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"292\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"293\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"294\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"295\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"296\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"297\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"298\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"299\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"300\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"301\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"302\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": ".hide-buttons [data-button] {\n  display: none !important;\n}\n.navbar-brand a {\n}\n.nav .link, .dropdown-item {\n  font-size: 1em;\n  color: #ffffff;\n}\n.navbar, .dropdown-menu {\n  background: #333333;\n}\n.dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus {\n  background: #292929;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1102,25 +1091,6 @@
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
           "logo": {
             "image": {
               "active": true,
@@ -1135,7 +1105,15 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-1v"
+          "_anchor": "dropdown-menu-2btn-1v",
+          "_customHTML": "<section data-rv-view=\"102\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"351\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"352\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"353\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"354\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"355\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"356\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"357\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"358\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"359\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"360\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"361\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"362\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"363\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"364\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"365\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"366\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": ".hide-buttons [data-button] {\n  display: none !important;\n}\n.navbar-brand a {\n}\n.nav .link, .dropdown-item {\n  font-size: 1em;\n  color: #ffffff;\n}\n.navbar, .dropdown-menu {\n  background: #333333;\n}\n.dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus {\n  background: #292929;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1328,25 +1306,6 @@
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
           "logo": {
             "image": {
               "active": true,
@@ -1361,7 +1320,15 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-12"
+          "_anchor": "dropdown-menu-2btn-12",
+          "_customHTML": "<section data-rv-view=\"114\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"383\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"384\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"385\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"386\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"387\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"388\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"389\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"390\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"391\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"392\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"393\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"394\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"395\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"396\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"397\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"398\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": ".hide-buttons [data-button] {\n  display: none !important;\n}\n.navbar-brand a {\n}\n.nav .link, .dropdown-item {\n  font-size: 1em;\n  color: #ffffff;\n}\n.navbar, .dropdown-menu {\n  background: #333333;\n}\n.dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus {\n  background: #292929;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -1736,25 +1703,6 @@
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
           "logo": {
             "image": {
               "active": true,
@@ -1769,7 +1717,15 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-1v"
+          "_anchor": "dropdown-menu-2btn-1v",
+          "_customHTML": "<section data-rv-view=\"143\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"479\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"480\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"481\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"482\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"483\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"484\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"485\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"486\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"487\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"488\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"489\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"490\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"491\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"492\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"493\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"494\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": ".hide-buttons [data-button] {\n  display: none !important;\n}\n.navbar-brand a {\n}\n.nav .link, .dropdown-item {\n  font-size: 1em;\n  color: #ffffff;\n}\n.navbar, .dropdown-menu {\n  background: #333333;\n}\n.dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus {\n  background: #292929;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -1949,25 +1905,6 @@
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
           "logo": {
             "image": {
               "active": true,
@@ -1982,7 +1919,15 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-1v"
+          "_anchor": "dropdown-menu-2btn-1v",
+          "_customHTML": "<section data-rv-view=\"155\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"319\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"320\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"321\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"322\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"323\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"324\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"325\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"326\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"327\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"328\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"329\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"330\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"331\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"332\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"333\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"334\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": ".hide-buttons [data-button] {\n  display: none !important;\n}\n.navbar-brand a {\n}\n.nav .link, .dropdown-item {\n  font-size: 1em;\n  color: #ffffff;\n}\n.navbar, .dropdown-menu {\n  background: #333333;\n}\n.dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus {\n  background: #292929;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -2140,25 +2085,6 @@
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
           "logo": {
             "image": {
               "active": true,
@@ -2173,7 +2099,15 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-42"
+          "_anchor": "dropdown-menu-2btn-42",
+          "_customHTML": "<section data-rv-view=\"165\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"447\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"448\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"449\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"450\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"451\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"452\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"453\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"454\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"455\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"456\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"457\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"458\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"459\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"460\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"461\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"462\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": ".hide-buttons [data-button] {\n  display: none !important;\n}\n.navbar-brand a {\n}\n.nav .link, .dropdown-item {\n  font-size: 1em;\n  color: #ffffff;\n}\n.navbar, .dropdown-menu {\n  background: #333333;\n}\n.dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus {\n  background: #292929;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -2381,25 +2315,6 @@
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
           "logo": {
             "image": {
               "active": true,
@@ -2414,7 +2329,15 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-49"
+          "_anchor": "dropdown-menu-2btn-49",
+          "_customHTML": "<section data-rv-view=\"178\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"415\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"416\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"417\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"418\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"419\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"420\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"421\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"422\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"423\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"424\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"425\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"426\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"427\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"428\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"429\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"430\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": ".hide-buttons [data-button] {\n  display: none !important;\n}\n.navbar-brand a {\n}\n.nav .link, .dropdown-item {\n  font-size: 1em;\n  color: #ffffff;\n}\n.navbar, .dropdown-menu {\n  background: #333333;\n}\n.dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus {\n  background: #292929;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
