@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADP Social Work Caucus-clone",
-    "currentPage": "index.html",
+    "currentPage": "CaucusLeaders.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -713,7 +713,22 @@
             "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
           ],
           "_customCSS": ".hide-buttons [data-button] {\n  display: none !important;\n}\n.navbar-brand a {\n}\n.nav .link, .dropdown-item {\n  font-size: 1em;\n  color: #ffffff;\n}\n.navbar, .dropdown-menu {\n  background: #333333;\n}\n.dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus {\n  background: #292929;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -1453,7 +1468,7 @@
           ],
           "_name": "header3",
           "_anchor": "header3-3q",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"459\">\n    <div class=\"mbr-section__container mbr-section__container--first container\">\n        <div class=\"mbr-header mbr-header--wysiwyg row\">\n            <div class=\"col-sm-8 col-sm-offset-2\">\n                <h3 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"77\"></h3>\n               <p></p>\n            </div>\n        </div>\n    </div>\n</section>\n",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"459\">\n    <div class=\"mbr-section__container mbr-section__container--first container\">\n        <div class=\"mbr-header mbr-header--wysiwyg row\">\n            <div class=\"col-sm-8 col-sm-offset-2\">\n                <h3 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"69\"></h3>\n               <p></p>\n            </div>\n        </div>\n    </div>\n</section>\n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "H3 {\n  text-align: center;\n}\n",
@@ -1490,8 +1505,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Sandra Ortega, MWS<br>Caucus Chair<br><br>",
-          "meta": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Sandra Ortega was born and raised in Southern California. She moved to Phoenix, Arizona in 2012, where she started her educational career as a social worker. She received both her BSW and MSW with a concentration in Planning, Administration, and Community Practice from Arizona State University. She currently works as an Education Liaison for youth in foster care. Outside of her professional work as a social worker, Sandra enjoys hiking, practicing yoga, dancing, and cozying up with her furry pets and a good book.&nbsp;</p><p>\n<br>Phone: (480) 788-5129&nbsp;<br>Email: chair@adpsocialworkcaucus.org<br></p>",
+          "title": "Sandra Ortega, MSW<br>Caucus Chair<br><br>",
+          "meta": "<p>Sandra Ortega was born and raised in Southern California. She moved to Phoenix, Arizona in 2012, where she started her educational career as a social worker. She received both her BSW and MSW with a concentration in Planning, Administration, and Community Practice from Arizona State University. She currently works as an Education Liaison for youth in foster care. Outside of her professional work as a social worker, Sandra enjoys hiking, practicing yoga, dancing, and cozying up with her furry pets and a good book.&nbsp;</p><p>\n<br>Phone: coming soon!<br>Email: chair@adpsocialworkcaucus.org<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1646,8 +1661,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Linda Hurtado",
-          "meta": "<br>Bio Coming Soon!\n<br>\n<br>Phone:&nbsp;Coming Soon! <br>Email: info@adpsocialworkcaucus.org\n<br><br> ",
+          "title": "Linda “Nina” Hurtado",
+          "meta": "<br>Linda “Nina” Hurtado graduated from Yuma High school in Yuma, AZ. She went on to obtain her bachelors degree in Social Work from Arizona State University. Nina is working on her Master’s Degree with a concentration in Policy, Administration and Community Practice at Arizona State University. She has worked as a social worker for nearly a decade in various fields including behavioral health, child welfare, immigration shelter care, foster care and school social work. She enjoys leadership roles in training and development of field staff. She currently is the administrator of a social work group with over 2,250 members. Outside of her professional career as a social worker, Nina enjoys serious hiking, dancing, cooking and spending time with loved ones.<br><br>Phone:&nbsp;Coming Soon! <br>Email: info@adpsocialworkcaucus.org\n<br><br> ",
           "_tags": [
             "Theme"
           ],
@@ -1733,14 +1748,29 @@
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v",
-          "_customHTML": "<section data-rv-view=\"143\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"479\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"480\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"481\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"482\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"483\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"484\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"485\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"486\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"487\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"488\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"489\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"490\">ADP Academy</a></div></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\" code-editable-id=\"491\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"492\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"493\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"494\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
+          "_customHTML": "<section data-rv-view=\"143\">\n\n    <nav class=\"navbar navbar-dropdown transparent navbar-fixed-top bg-color\"><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n\n        <div class=\"container\">\n\n            \n\n            <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                <div class=\"hamburger-icon\"></div>\n            </button>\n\n            <ul class=\"nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" aria-expanded=\"false\" code-editable-id=\"50\">Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"51\">About Us</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Mission.html\" aria-expanded=\"false\" code-editable-id=\"52\">Mission<br></a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\" code-editable-id=\"53\">ADP Social Work Caucus Board</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"CaucusBylaws.html\" aria-expanded=\"false\" code-editable-id=\"54\">ADP Social Work Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"55\">Meetings</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Events.html\" aria-expanded=\"false\" code-editable-id=\"56\">Events Calendar</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\" code-editable-id=\"57\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"58\">Programs</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Membership.html\" aria-expanded=\"false\" code-editable-id=\"59\">Caucus Membership</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"Blog.html\" aria-expanded=\"false\" code-editable-id=\"60\">Blog</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://adpacademy.azblueleader.com/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"61\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\" code-editable-id=\"62\">Resources</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"63\">Candidates and Elections</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\" code-editable-id=\"64\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-default btn-default-outline mbr-editable-menu-item\" href=\"https://goo.gl/forms/ayfaoivGQZ5t3Vd12\" target=\"_blank\" code-editable-id=\"65\">Join Us!</a></li></ul>\n\n        </div>\n\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
             "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
           ],
           "_customCSS": ".hide-buttons [data-button] {\n  display: none !important;\n}\n.navbar-brand a {\n}\n.nav .link, .dropdown-item {\n  font-size: 1em;\n  color: #ffffff;\n}\n.navbar, .dropdown-menu {\n  background: #333333;\n}\n.dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus {\n  background: #292929;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_customTemplate": true,
